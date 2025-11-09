@@ -7,3 +7,5 @@ tenacity
 structlog
 openai
 notion-client
+pytest
+
